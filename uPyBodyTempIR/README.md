@@ -66,7 +66,7 @@ Se afaste.
 
 Aguarde ......
 ```
-See its operation in detail by clicking [here](https://github.com/EduardoDestefani/micropython-samples/tree/master/uPyBodyTempIR/uPyBodyTempIR-PyboardD#upybodytempir-pybd)
+See its operation in detail and code by clicking [here](https://github.com/EduardoDestefani/micropython-samples/tree/master/uPyBodyTempIR/uPyBodyTempIR-PyboardD#upybodytempir-pybd)
 
 
 #### With BBC Micro:bit
@@ -75,3 +75,5 @@ BBC Micro: bit graphical interface pseudocode. The statistics module is not used
 Its operation :
 
 ![image]()
+
+See its operation in detail and code by clicking [here](https://github.com/EduardoDestefani/micropython-samples/tree/master/uPyBodyTempIR/uPyBodyTempIR-MicroBit)
