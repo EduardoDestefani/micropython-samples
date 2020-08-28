@@ -25,6 +25,8 @@ This project is being developed by [UFES (Federal University of Espírito Santo 
 ------------------------------------------------------------------
 
 # What was done
-With the latest graphical user interface software, several end user response designs have been tested.
 
-### With Pyboard-D
+### With the latest graphical user interface software, several end user response designs have been tested.
+
+#### With Pyboard-D
+Graphical interface code for Pyboard-D. Newer version of uPyBodyTempIR for Pyboard-D (uPyBodyTempIR-PYBD_v0.5.py), code produced for initiatives against [COVID-19](https://github.com/rcolistete/CompFis_UFES_covid19).
