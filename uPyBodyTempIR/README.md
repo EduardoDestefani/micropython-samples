@@ -41,7 +41,7 @@ MPY: sync filesystems
 MPY: soft reboot
 
 Esperando proximidade ...............
-Oi, eu sou o uPyBodyTempIR-PYBD_v0.4
+Oi, eu sou o uPyBodyTempIR-PYBD_v0.5
 
 Fique a 3cm da tela.
 Fique Parado!
