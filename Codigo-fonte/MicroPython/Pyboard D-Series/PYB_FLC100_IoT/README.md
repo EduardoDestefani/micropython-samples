@@ -1,2 +1,2 @@
 # PYB_FLC100_IoT
-Código para envio de dados através do protocolo MQTT. ThingSpeak foi o servidor IoT Clound utilizado. Os códigos main estão disponiveis no diretório [PYB_FLC100_IoT-main](https://github.com/EduardoDestefani/micropython-samples/tree/master/Codigo-fonte/MicroPython/Pyboard%20D-Series/PYB_FLC100_IoT/PYB_FLC100_IoT-main).
+Código para envio de dados através do protocolo MQTT. ThingSpeak foi o servidor IoT Clound utilizado. Os códigos main estão disponiveis no diretório [PYB_FLC100_IoT-main](https://github.com/EduardoDestefani/micropython-samples/tree/master/Codigo-fonte/MicroPython/Pyboard%20D-Series/PYB_FLC100_IoT/PYB_FLC100_IoT-main). Veja os resultados das ultimas medições [aqui](https://thingspeak.com/channels/1092191).
