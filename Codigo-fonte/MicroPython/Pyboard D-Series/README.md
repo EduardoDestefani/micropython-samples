@@ -5,4 +5,4 @@ Neste diretório estão os códigos mais recentes para visualização de resulta
 ## PortMag
 Versão mais recente do pré-protótipo "PortMag" :
 
-![image](PortMag.png)
+![image](PortMag.png =250x)
