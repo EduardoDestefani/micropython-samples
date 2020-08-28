@@ -30,3 +30,48 @@ This project is being developed by [UFES (Federal University of Espírito Santo 
 
 #### With Pyboard-D
 Graphical interface code for Pyboard-D. Newer version of uPyBodyTempIR for Pyboard-D (uPyBodyTempIR-PYBD_v0.5.py), code produced for initiatives against [COVID-19](https://github.com/rcolistete/CompFis_UFES_covid19).
+
+Output data : 
+```
+MicroPython v1.12-662-gf8531fe04 on 2020-07-26; PYBD-SF2W with STM32F722IEK
+Type "help()" for more information.
+>>>
+>>>
+MPY: sync filesystems
+MPY: soft reboot
+
+Esperando proximidade ...............
+Oi, eu sou o uPyBodyTempIR-PYBD_v0.4
+
+Fique a 3cm da tela.
+Fique Parado!
+
+Carregando ...
+Carregando ...
+Carregando ...
+Carregando ...
+Carregando ...
+Se aproxime!
+Se aproxime!
+Carregando ...
+Carregando ...
+Carregando ...
+
+Medida feita!
+36.5 +/- 0.0 C
+Normal.
+
+Fim.
+Se afaste.
+
+Aguarde ......
+```
+See its operation in detail by clicking [here](https://github.com/EduardoDestefani/micropython-samples/tree/master/uPyBodyTempIR/uPyBodyTempIR-PyboardD#upybodytempir-pybd)
+
+
+#### With BBC Micro:bit
+BBC Micro: bit graphical interface pseudocode. The statistics module is not used due to the low memory of the BBC Micro: bit. Code produced for initiatives against [COVID-19](https://github.com/rcolistete/CompFis_UFES_covid19).
+
+Its operation :
+
+![image]()
