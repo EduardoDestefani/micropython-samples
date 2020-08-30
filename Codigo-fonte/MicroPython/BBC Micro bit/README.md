@@ -7,7 +7,7 @@ Summary of codes :
 
 #### 1. Game codes
 
-1.1. [Le-ght]() (a left and right game) ; it is a game based on micropython that consists of reflexes. 
+1.1. [Le-ght](https://github.com/EduardoDestefani/micropython-samples/blob/master/Codigo-fonte/MicroPython/BBC%20Micro%20bit/Le-ght.py) (a left and right game) ; it is a game based on micropython that consists of reflexes. 
 
 - Operation :
   - The player must choose the difficulty (level 1 to 4, are alternated by pressing button B), and prepare for the instructions that will appear on the BBC Micro's 25 LED screen: bit;
@@ -16,7 +16,7 @@ Summary of codes :
   - The player must press the button that refers to the indicated direction;
   - With each hit, the arrow is less displayed on the screen, if the player misses, the game restarts and shows the amount of points reached.
 
-1.2. [D-Bit]() (a RPG dice for BBC Micro:bit) ; it is a micropython software that simulates RPG dice.
+1.2. [D-Bit](https://github.com/EduardoDestefani/micropython-samples/blob/master/Codigo-fonte/MicroPython/BBC%20Micro%20bit/D-Bit.py) (a RPG dice for BBC Micro:bit) ; it is a micropython software that simulates RPG dice.
 
 - Operation :
   - The player must select the type of dice, being them; D2, D4, D6, D8, D10, D20 and D100;
