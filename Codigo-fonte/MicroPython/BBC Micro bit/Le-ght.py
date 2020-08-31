@@ -10,7 +10,6 @@ from random import randrange
 loop = False
 
 def coin():
-    global count
     if randrange(100) % 2 == 0 :
         return 1
     else :
