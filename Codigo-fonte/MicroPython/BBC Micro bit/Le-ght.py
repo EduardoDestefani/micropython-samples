@@ -27,7 +27,7 @@ while True :
         display.show(difficulty, wait=True, clear=False)
         if difficulty == 5 :
             display.show(Image.NO, delay=400)
-            difficulty = 4
+            difficulty = 0
     elif button_a.get_presses() :
         if difficulty == 0 :
             reset()
