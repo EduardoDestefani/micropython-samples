@@ -11,9 +11,10 @@ Summary of codes :
 
 - Operation :
 
-  - The player must choose the difficulty (level 1 to 4, are alternated by pressing button B), and prepare for the instructions that will appear on the BBC Micro:bit's 25 LED screen;
+  - The player must choose the difficulty (level 1 to 4, are alternated by pressing button B);
   - To confirm the option of difficulty, press button A and wait for the instructions on the screen;
-  - The instructions are; left or right, displayed through an arrow that points to button B (left) or button A (right);
+  - Prepare for the instructions that will appear on the BBC Micro:bit's 25 LED screen;
+  - The instructions are; left or right, displayed through an arrow that points to button B (right) or button A (left);
   - The player must press the button that refers to the indicated direction;
   - With each hit, the arrow is shown less time on the screen (randomly), if the player misses, the game restarts and shows the amount of points achieved. 
   - If he reaches the number of points that the difficulty level asks for, he wins the game (difficulty equal to 4 requires 20 points to win, equal to 3, 15 points, equal to 2, 12 points and equal to 1, 10 points).
