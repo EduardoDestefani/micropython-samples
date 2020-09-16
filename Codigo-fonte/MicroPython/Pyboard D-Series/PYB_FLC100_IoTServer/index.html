@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>PYBD-SF2W FLC100</title>
+        <meta charset="utf-8">
+        <style>
+            *{
+                padding: 0;
+                margin: 0;
+            }
+            body{
+                text-align: center;
+                background: #D3E3FF;
+            }
+            input{
+                padding: 15px;
+                width: 370px;
+                border-radius: 20px;
+                font-weight: bold;
+                font-size: 1.5em;
+                margin-bottom: 34px;
+                text-align: center;
+            }
+            h1{
+                background-color: #006770;
+                color: #E0FFFF;
+                font-size: 40px;
+                padding: 30px 0px;
+            }
+            h2 {
+                background-color:#66ABB0;
+                color: #151515; 
+                font-family: arial; 
+            }
+            h3 {
+                margin-bottom: 20px;
+            }
+            p{
+                color: #292929;
+                font-weight: bold;
+                font-family: times;
+                font-size: 20px; 
+                text-align: justify;
+                margin: 40px 62px;
+            }
+            #registrar{
+                color: #151515;
+                border-radius: 10px; 
+                background-color:rgba(0,180,220,0.7);
+                margin-bottom: 60px; 
+                width: 220px;
+            }
+          </style>
+    </head>
+
+    <body>
+        <h1>PYBD FLC100 IoT <sub>v0.4</sub></h1>
+        <h2>Software de leitura do campo Geomagnético</h2>
+        <p>
+            Software (PYB_FLC100_IoT_v0.4) para aplicações com o magnetômetro FLC100. Seu funcionamento consiste em criar uma lista de 150 leituras do sensor e executar um cálculo de conversão. A lista convertida em nano Tesla, passa por um tratamento de dados, no qual, através das funções do ulab, são retiradas a média, desvio padrão e valores máximos e mínimos da lista em questão. Os dados finais, em um intervalo de tempo editável, são armazenados, e depois, disponível para download.
+        </p>
+        <form action="" method="GET">
+            <input type="text" name="num" placeholder="Quantidade de medidas"><br>
+            <input type="text" name="delay" placeholder="Atraso entre leituras (min. 20s)"><br>
+            <input id="registrar" type="submit" name="sub" value="Registrar"><br>
+            <a href="flc100.csv">Baixar leituras (.csv)</a>
+        </form>
+        <br>
+        <h3>by Eduardo Destefani Stefanato, Pedro Henrique Robadel & Roberto Colistete Jr. &copy</h3>
+        <h4>Universidade Federal do Espírito Santo &reg</h4>
+    </body>
+</html>
